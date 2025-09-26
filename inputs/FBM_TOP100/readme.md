@@ -1,6 +1,8 @@
-This directory is for storing price and fundamental data for stocks that have ever been in the FTSE Bursa Malaysia (FBM) Top 100 index (a combination of FBM KLCI and FBM MID 70 indices).
+This directory contains price and fundamental data for stocks that have ever been in the FTSE Bursa Malaysia (FBM) Top 100 index (a combination of FBM KLCI and FBM MID 70 indices).
 
 There are data for a total of 152 stocks at the moment spanning from Sep 2017 - Sep 2025. Data for 1 active stock and 10 delisted stocks were not available for some reasons & have not been obtained.
+
+Information regarding the stocks' ticker, code, company name, sector, and industry can be found in ```FBM_Top100.csv```. The rest of the CSV files (with the ticker as the file names) contain the following data.
 
 The price data consists of daily Open, High, Low, and Close prices, plus as daily Volume data as well.
 
