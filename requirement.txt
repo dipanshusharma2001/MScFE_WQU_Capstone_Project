@@ -1,4 +1,24 @@
+# Core Scientific Libraries
 numpy
 pandas
 matplotlib
 seaborn
+scipy
+
+# Time Series & Econometrics
+statsmodels
+arch
+ruptures
+
+# Causal & Bayesian Modeling
+pgmpy
+pyAgrum
+bnlearn
+networkx
+
+# Data Access
+openassetpricing
+
+# Miscellaneous Utilities
+tqdm
+warnings

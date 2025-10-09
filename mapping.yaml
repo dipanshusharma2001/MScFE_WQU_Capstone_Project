@@ -1,0 +1,10 @@
+project:
+  name: "Influence Diagram as a Decision-Making Tool for Factor Investing"
+  group_id: 11186
+  members: ["Vahid Nikoofard", "Dipanshu Sharma", "Rhesa Prabowo Budhidarmo"]
+
+model_params:
+  bn_structure_algorithm: "hillclimb"
+  dbn_lag: 1
+  volatility_model: "GARCH(1,1)"
+  scoring_metric: "BIC"
