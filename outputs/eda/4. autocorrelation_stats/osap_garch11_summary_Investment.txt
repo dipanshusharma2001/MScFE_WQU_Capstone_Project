@@ -1,0 +1,20 @@
+                       Zero Mean - GARCH Model Results                        
+==============================================================================
+Dep. Variable:             Investment   R-squared:                       0.000
+Mean Model:                 Zero Mean   Adj. R-squared:                  0.001
+Vol Model:                      GARCH   Log-Likelihood:               -1628.04
+Distribution:                  Normal   AIC:                           3262.07
+Method:            Maximum Likelihood   BIC:                           3275.81
+                                        No. Observations:                  720
+Date:                Thu, Oct 09 2025   Df Residuals:                      720
+Time:                        15:50:01   Df Model:                            0
+                             Volatility Model                             
+==========================================================================
+                 coef    std err          t      P>|t|    95.0% Conf. Int.
+--------------------------------------------------------------------------
+omega          0.5609      0.284      1.976  4.813e-02 [4.603e-03,  1.117]
+alpha[1]       0.2437      0.109      2.228  2.589e-02 [2.930e-02,  0.458]
+beta[1]        0.6876      0.115      5.992  2.079e-09   [  0.463,  0.913]
+==========================================================================
+
+Covariance estimator: robust
