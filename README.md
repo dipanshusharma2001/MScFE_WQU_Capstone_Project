@@ -7,9 +7,9 @@
 >
 > **Student Group:** 11186  
 > **Members:**  
-> 1. **Vahid Nikoofard**  
+> 1. **Vahid Nikoofard**  [(vnikoofard@gmail.com)](mailto:vnikoofard@gmail.com)  
 > 2. **Dipanshu Sharma** [(dipanshusharma.iitb@gmail.com)](mailto:dipanshusharma.iitb@gmail.com)  
-> 3. **Rhesa Prabowo Budhidarmo**
+> 3. **Rhesa Prabowo Budhidarmo** [(rhesa.budhidarmo@gmail.com)](mailto:rhesa.budhidarmo@gmail.com)  
 
 ---
 
