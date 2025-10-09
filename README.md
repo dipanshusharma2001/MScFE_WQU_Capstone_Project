@@ -8,15 +8,14 @@
 > **Student Group:** 11186  
 > **Members:**  
 > 1. **Vahid Nikoofard**  
-> 2. **Dipanshu Sharma**  
+> 2. **Dipanshu Sharma** [(dipanshusharma.iitb@gmail.com)](mailto:dipanshusharma.iitb@gmail.com)  
 > 3. **Rhesa Prabowo Budhidarmo**
 
 ---
 
 ### 🧭 Overview
 This project explores the application of **Bayesian Networks (BN)**, **Dynamic Bayesian Networks (DBN)**, and **Influence Diagrams (ID)** 
-in modeling causal relationships among financial factors and optimizing portfolio decisions under uncertainty.  
-It forms part of the **MSc in Financial Engineering (MScFE)** Capstone Course at **WorldQuant University (WQU)**.
+in modeling causal relationships among financial factors and optimizing portfolio decisions under uncertainty.  It forms part of the **MSc in Financial Engineering (MScFE)** Capstone Course at **WorldQuant University (WQU)**.
 
 The goal is to design a **causal factor investing framework** that uses probabilistic graphical models to identify, 
 quantify, and act upon relationships among key market factors. By leveraging Bayesian reasoning and decision theory, 
