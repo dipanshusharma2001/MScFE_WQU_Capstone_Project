@@ -1,6 +1,25 @@
 # DYNOTEARS PoC Development Summary
 Logs, notes & ideas related to: https://github.com/dipanshusharma2001/MScFE_WQU_Capstone_Project/blob/main/notebooks/02_DYNOTEARS_PoC.ipynb
 
+
+---
+Note added on 6 Nov 2025
+## TO DO 
+Elaborate on the changes below.
+
+### Changes made since M4 submission & following M5 peer review:
+
+- Regime labels from EDA have been incorporated
+- Code has been refactored & reusable functions were made
+- Commments & docstrings have been added & expanded
+- Corrected a calculation error in DBN parameter learning code in the previous version
+- Model quality from a single train-test split was evaluated
+- Portfolio optimization now utilizes ```cvxpy``` to incorporate constraints (total weights = 1, max weight per factor = 30 %). The optimization function also includes an adjustable risk-aversion coefficient.
+- S&P 500 benchmark, equal-weight (1/N), and rolling MVO portfolios were added for comparisons
+- Implemented walk-forward backtest with error handling for long only & long-short portfolios
+---
+
+
 ## 1. Data Preparation
 ### 1.1 Data Processing
 - Loaded factor returns data, which have been previously processed (https://raw.githubusercontent.com/dipanshusharma2001/MScFE_WQU_Capstone_Project/main/inputs/clean/osap_factor_returns.csv) & formatted values & datetime index.
