@@ -39,6 +39,7 @@ MScFE_WQU_Capstone_Project/
 │   └── meta/
 │       ├── etl_decisions.md  ← detailed record of all EDA/ETL steps
 │       ├── sources.md        ← detailed record of all sources used to download the datasets
+│       ├── dynotears_poc.md  ← detailed description on end to end implementation of DYNOTEARS Algorithm
 │
 ├── outputs/
 │   ├── eda/                  ← eda summaries and results
