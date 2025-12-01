@@ -10,15 +10,16 @@ statsmodels
 arch
 ruptures
 
-# Causal & Bayesian Modeling
-pgmpy
+# Causal & Bayesian Modeling, ML
 pyAgrum
-bnlearn
 networkx
+scikit-learn
 
 # Data Access
 openassetpricing
+yfinance
+pandas-datareader
 
 # Miscellaneous Utilities
 tqdm
-warnings
+joblib
